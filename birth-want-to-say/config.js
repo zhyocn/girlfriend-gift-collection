@@ -20,22 +20,22 @@ var config = {
     ],
   
     imgs: {
-        "送给我": "./imgs/songxinxin.jpeg",
-        "亲爱的嘉儿": "./imgs/nothing.jpg",
-        "马上就是你的生日啦": "./imgs/shengri.jpeg",
-        "这是我们在一起的": "./imgs/zaiyiqi.png",
-        "第7个生日！": "./imgs/nothing.jpg",
-        "最朴实的愿望送给你": "./imgs/yangzi.jpeg",
-        "愿你多吃不胖": "./imgs/nothing.jpg",
-        "愿你一直冻龄": "./imgs/nothing.jpg",
-        "愿你永远健康美丽女神": "./imgs/nothing.jpg",
-        "愿你做过的美梦都实现": "./imgs/nothing.jpg",
-        "愿你永远都有好运气": "./imgs/chuo.gif",
-        "愿这岁月悠长": "./imgs/chihaodian.jpeg",
-        "我们早日团聚结束异地": "./imgs/weibao.jpeg",
-        "每天都有想你": "./imgs/nothing.jpg",
-        "我滴嘉嘉宝贝": "./imgs/nothing.jpg",
-        "生日快乐~~": "./imgs/nothing.jpg"
+        "送给我": "./imgs/1.jpg",
+        "亲爱的嘉儿": "./imgs/2.jpg",
+        "马上就是你的生日啦": "./imgs/3.jpeg",
+        "这是我们在一起的": "./imgs/4.png",
+        "第7个生日！": "./imgs/5.jpg",
+        "最朴实的愿望送给你": "./imgs/6.jpeg",
+        "愿你多吃不胖": "./imgs/7.jpg",
+        "愿你一直冻龄": "./imgs/8.jpg",
+        "愿你永远健康美丽女神": "./imgs/9.jpg",
+        "愿你做过的美梦都实现": "./imgs/10.jpg",
+        "愿你永远都有好运气": "./imgs/11.gif",
+        "愿这岁月悠长": "./imgs/12.jpeg",
+        "我们早日团聚结束异地": "./imgs/13.jpeg",
+        "每天都有想你": "./imgs/14.jpg",
+        "我滴嘉嘉宝贝": "./imgs/15.jpg",
+        "生日快乐~~": "./imgs/16.jpg"
     },
     
     // 按钮文字描述
